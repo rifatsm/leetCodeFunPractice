@@ -1,7 +1,7 @@
 33. Search in Rotated Sorted Array.java
 
 // Solution: Binary Search, Two pointers 
-// Runtime: 9 ms 
+// Runtime: 6 ms 
 // TC: O(logn)
 // SC: O(1)
 /* Approach: Binary Search with finding pivot value
