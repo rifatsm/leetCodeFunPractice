@@ -4,7 +4,7 @@
 // Runtime: 9 ms 
 // TC: O(logn)
 // SC: O(1)
-/* Approach: Binary Search
+/* Approach: Binary Search with finding pivot value
 *   1. Find the "pivot" value, where the array rotates. Do this using Binary Searching. 
 *   2. Use the "pivot" value to search the "target" using Binary Search. Moding by "pivot" value makes the array appear "sorted"
 */
